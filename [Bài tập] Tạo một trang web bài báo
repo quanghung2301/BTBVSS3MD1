@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <main>
+      <h1>Tầm quan trọng của HTML trong phát triển web</h1>
+      <p>Ngày 25&#8260; 11 &#8260; 2024 &#8211; Tác giả &#58; Nguyễn Văn A</p>
+      <h2>Giới thiệu</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
+        accusamus quisquam deserunt asperiores non harum quae expedita, saepe
+        blanditiis voluptates nulla numquam fugiat, est accusantium beatae
+        facilis magni!
+      </p>
+      <h2>Tại sao HTML quan trọng</h2>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel
+        voluptatibus, beatae aliquam exercitationem non eos tempore dicta
+        blanditiis placeat expedita?
+      </p>
+      <ul>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem esse
+          nihil iure modi dicta mollitia ipsum debitis sapiente?
+        </li>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+      </ul>
+      <h2>Kết luận</h2>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel non eum
+        ullam dolorem excepturi mollitia accusamus dignissimos? Ex, ipsum unde?
+      </p>
+      <footer><p>&#169; Nguyễn Văn A. Tất cả các quyền được bảo lưu</p></footer>
+    </main>
+  </body>
+</html>
