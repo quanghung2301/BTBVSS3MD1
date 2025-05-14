@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Danh sách ảnh của bạn</h1>
+    <img
+      src="https://i.pinimg.com/736x/0d/31/35/0d313596171cfac3367bd87a8fbf751d.jpg"
+      alt="gekkoga"
+      width="300"
+      height="400"
+    />
+    <img
+      src="https://i.pinimg.com/736x/7d/4e/95/7d4e955693e59f2f00c18542428801e0.jpg"
+      alt="rekkuza"
+      width="300"
+      height="400"
+    /><img
+      src="https://i.pinimg.com/736x/2a/a3/d3/2aa3d394e5a49460157f4247158e3d17.jpg"
+      alt="houhou"
+      width="300"
+      height="400"
+    /><img
+      src="https://i.pinimg.com/736x/a8/ec/74/a8ec74f5900e737e59d2fd8e1b33a31d.jpg"
+      alt="rugia"
+      width="300"
+      height="400"
+    />
+  </body>
+</html>
