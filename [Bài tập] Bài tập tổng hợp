@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <main>
+      <h1>CatohotoApp</h1>
+      <h2>catphoto</h2>
+      <p>
+        Lorem ipsum dolor sit amet <a href="">consectetur</a>consectetur
+        adipisicing elit.
+      </p>
+      <p>
+        Lorem ipsum, <a href="">dolor sit</a> amet consectetur adipisicing elit.
+        Vel?
+      </p>
+      <img
+        src="https://i.pinimg.com/736x/3e/d5/81/3ed5819c87fc6484ed8a9cb3f2ce90d2.jpg"
+        alt=""
+      />
+      <h2>Cat lits</h2>
+      <h3>things cat love</h3>
+      <ul>
+        <li>cat nip</li>
+        <li>lasẻ pointer</li>
+        <li>lasagna</li>
+      </ul>
+      <figure>
+        <img
+          src="https://i.pinimg.com/736x/2e/3f/c0/2e3fc0a4c33f9f021c075b0dba69f087.jpg"
+          alt=""
+        />
+        <p>cat love lasagna</p>
+      </figure>
+      <h3>things cat hate</h3>
+      <ul>
+        <li>Lorem, ipsum dolor.</li>
+        <li>Lorem, ipsum.</li>
+        <li>lasagna</li>
+      </ul>
+      <figure>
+        <img
+          src="https://i.pinimg.com/736x/2e/3f/c0/2e3fc0a4c33f9f021c075b0dba69f087.jpg"
+          alt=""
+        />
+        <p>cat hate lasagna</p>
+      </figure>
+      <h2>catbred</h2>
+      <table border="1">
+        <thead>
+          <tr>
+            <th>breed</th>
+            <th>location ò origin</th>
+            <th>type</th>
+            <th>body type</th>
+            <th>coat type and length</th>
+            <th>coat pattẻ</th>
+            <th>image</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <a href="">abysian</a> <sub><a href="">[8]</a></sub>
+            </td>
+            <td>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui,
+              <a href="">Ethiopia</a> <sup><a href="">[9]</a></sup>
+            </td>
+            <td>natủal</td>
+            <td>semi-for</td>
+            <td>short</td>
+            <td>tiked</td>
+            <td>
+              <img
+                src="https://png.pngtree.com/png-vector/20191126/ourmid/pngtree-image-of-cute-radish-vector-or-color-illustration-png-image_2040180.jpg"
+                alt=""
+              />
+            </td>
+          </tr>
+          <tr>
+            <td><a href="">aegcan</a></td>
+            <td>greece</td>
+            <td>Natunal</td>
+            <td>moderate</td>
+            <td>Semi-long</td>
+            <td>muty-color</td>
+            <td>
+              <img
+                src="https://png.pngtree.com/png-vector/20191126/ourmid/pngtree-image-of-cute-radish-vector-or-color-illustration-png-image_2040180.jpg"
+                alt=""
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="">amẻica bobtail</a> <a href=""><sup>[10]</sup></a>
+            </td>
+            <td>
+              us <a href=""><sup>[11]</sup> </a>
+            </td>
+            <td>mutation of shortened tail</td>
+            <td>coby</td>
+            <td>semi-long</td>
+            <td>all</td>
+            <td>
+              <img
+                src="https://png.pngtree.com/png-vector/20191126/ourmid/pngtree-image-of-cute-radish-vector-or-color-illustration-png-image_2040180.jpg"
+                alt=""
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="">American curl</a><a href=""><sup>[12]</sup></a>
+            </td>
+            <td>
+              us <a href=""><sup>[11]</sup></a>
+            </td>
+            <td>multation</td>
+            <td>semi-foregin</td>
+            <td>semi-long</td>
+            <td>all</td>
+            <td>
+              <img
+                src="https://png.pngtree.com/png-vector/20191126/ourmid/pngtree-image-of-cute-radish-vector-or-color-illustration-png-image_2040180.jpg"
+                alt=""
+              />
+            </td>
+          </tr>
+          <tr>
+            <td><a href="">American ringtail</a><a href=""></a></td>
+            <td>
+              us <a href=""><sup>[11]</sup></a>
+            </td>
+            <td>multation</td>
+            <td>semi-foregin</td>
+            <td>semi-long</td>
+            <td>all</td>
+            <td>
+              <img
+                src="https://png.pngtree.com/png-vector/20191126/ourmid/pngtree-image-of-cute-radish-vector-or-color-illustration-png-image_2040180.jpg"
+                alt=""
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
+    <footer>
+      <h2>Cat Form</h2>
+      <br />
+      <fieldset>
+        <legend>Is your cat an indoor</legend>
+        <input type="radio" />
+        <label for="">indoor</label>
+        <input type="radio" />
+        <label for="">indoor</label>
+      </fieldset>
+      <fieldset>
+        <legend>What's your cat's personality?</legend>
+        <input type="checkbox" />
+        <label for="">Loving</label> <input type="checkbox" />
+        <label for="">Lazy</label> <input type="checkbox" />
+        <label for="">Energetic</label>
+      </fieldset>
+      <input type="url" />
+      <button>submit</button>
+      <p>No copuright - <a href="">rikiedu.vn</a></p>
+    </footer>
+  </body>
+</html>
